@@ -1,0 +1,9 @@
+{
+  "name": "melon-dev-vercel",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Melon Dev landing page and raw endpoint",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}

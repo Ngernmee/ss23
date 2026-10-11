@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/raw", "destination": "/api/raw" },
+    { "source": "/dump", "destination": "/dump.html" }
+  ]
+}
